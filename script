@@ -1,0 +1,163 @@
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
+local Window = Library.CreateLib("XeroALT", "Synapse")
+
+-- MAIN
+    local Main = Window:NewTab("Main") 
+    local MainSection = Main:NewSection("All You need k0an")
+
+   
+
+    MainSection:NewButton("Lock", "Lock with the key C", function()
+    loadstring(game:HttpGet("https://pastebin.com/raw/NhsUKN0t"))()
+    end)
+
+    MainSection:NewButton("Triggerbot(Broken)", "Triggerbot by pressing the key T", function()
+        loadstring(game:HttpGet("https://pastebin.com/raw/1m4YxQE1"))()
+        end)local Library = {};
+
+
+MainSection:NewButton("Jerk", "why???", function()
+    loadstring(game:HttpGet("https://pastebin.com/raw/38Jra00x"))() 
+        end)local Library = {};
+
+
+        MainSection:NewButton("Spy GUI", "why?", function()
+            loadstring(game:HttpGet("https://pastebin.com/raw/69yQ8TmJ"))() 
+                end)local Library = {};
+
+                MainSection:NewButton("fling", "DETECTEDINDAHOOD", function()
+                    loadstring(game:HttpGet("https://pastebin.com/raw/zqyDSUWX"))()
+                        end)local Library = {};
+
+                        MainSection:NewButton("Fly", "FuckingShit", function()
+                            loadstring(game:HttpGet('https://raw.githubusercontent.com/qAxAp/DioFly/main/DioFly.lua'))()
+                                end)local Library = {};
+
+                                MainSection:NewButton("Stretch", "hgf", function()
+                                    getgenv().Resolution = {
+                                        [".gg/scripters"] = 0.65
+                                    }
+                                    
+                                    local Camera = workspace.CurrentCamera
+                                    if getgenv().gg_scripters == nil then
+                                        game:GetService("RunService").RenderStepped:Connect(
+                                            function()
+                                                Camera.CFrame = Camera.CFrame * CFrame.new(0, 0, 0, 1, 0, 0, 0, getgenv().Resolution[".gg/scripters"], 0, 0, 0, 1)
+                                            end
+                                        )
+                                    end
+                                    getgenv().gg_scripters = "Aori0001"                                        end)local Library = {};
+
+
+                                    
+        MainSection:NewButton("CHATBYPASSER", "why?", function()
+            loadstring(game:HttpGet ('https://raw.githubusercontent.com/CaseohCASEOH/Gui/refs/heads/main/AB-CHAT-BYPASSER'))()
+                end)local Library = {};
+
+                MainSection:NewButton("fakemacro", "why?", function()
+                    local AkaliNotif = loadstring(game:HttpGet("https://raw.githubusercontent.com/Kinlei/Dynissimo/main/Scripts/AkaliNotif.lua"))();
+local Notify = AkaliNotif.Notify;
+Notify({
+Description = "Subscribe to Envixity Scripts on YouTube";
+Title = "_Envixity#8725 On Discord";
+Duration = 15;
+});
+getgenv().Speed = true
+getgenv().FakeMacro = true
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Allvideo/nukermode/main/Kit%20tools.txt"))()
+                        end)local Library = {};
+
+                        local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
+                        local Window = Library.CreateLib("XeroALT", "Synapse")
+                        
+                        -- MAIN
+                            local Main = Window:NewTab("Main") 
+                            local MainSection = Main:NewSection("All You need k0an")
+                        
+                           
+                        
+                            MainSection:NewButton("Lock", "Lock with the key C", function()
+                            loadstring(game:HttpGet("https://pastebin.com/raw/NhsUKN0t"))()
+                            end)
+                        
+                            MainSection:NewButton("Triggerbot(Broken)", "Triggerbot by pressing the key T", function()
+                                loadstring(game:HttpGet("https://pastebin.com/raw/1m4YxQE1"))()
+                                end)local Library = {};
+                        
+                        
+                        MainSection:NewButton("Jerk", "why???", function()
+                            loadstring(game:HttpGet("https://pastebin.com/raw/38Jra00x"))() 
+                                end)local Library = {};
+                        
+                        
+                                MainSection:NewButton("Spy GUI", "why?", function()
+                                    loadstring(game:HttpGet("https://pastebin.com/raw/69yQ8TmJ"))() 
+                                        end)local Library = {};
+                        
+                                        MainSection:NewButton("fling", "DETECTEDINDAHOOD", function()
+                                            loadstring(game:HttpGet("https://pastebin.com/raw/zqyDSUWX"))()
+                                                end)local Library = {};
+                        
+                                                MainSection:NewButton("Fly", "FuckingShit", function()
+                                                    loadstring(game:HttpGet('https://raw.githubusercontent.com/qAxAp/DioFly/main/DioFly.lua'))()
+                                                        end)local Library = {};
+                        
+                                                        MainSection:NewButton("Stretch", "hgf", function()
+                                                            getgenv().Resolution = {
+                                                                [".gg/scripters"] = 0.65
+                                                            }
+                                                            
+                                                            local Camera = workspace.CurrentCamera
+                                                            if getgenv().gg_scripters == nil then
+                                                                game:GetService("RunService").RenderStepped:Connect(
+                                                                    function()
+                                                                        Camera.CFrame = Camera.CFrame * CFrame.new(0, 0, 0, 1, 0, 0, 0, getgenv().Resolution[".gg/scripters"], 0, 0, 0, 1)
+                                                                    end
+                                                                )
+                                                            end
+                                                            getgenv().gg_scripters = "Aori0001"                                        end)local Library = {};
+                        
+                        
+                                                            
+                                MainSection:NewButton("CHATBYPASSER", "why?", function()
+                                    loadstring(game:HttpGet ('https://raw.githubusercontent.com/CaseohCASEOH/Gui/refs/heads/main/AB-CHAT-BYPASSER'))()
+                                        end)local Library = {};
+                        
+                                        MainSection:NewButton("fakemacro", "why?", function()
+                                            local AkaliNotif = loadstring(game:HttpGet("https://raw.githubusercontent.com/Kinlei/Dynissimo/main/Scripts/AkaliNotif.lua"))();
+                        local Notify = AkaliNotif.Notify;
+                        Notify({
+                        Description = "Subscribe to Envixity Scripts on YouTube";
+                        Title = "_Envixity#8725 On Discord";
+                        Duration = 15;
+                        });
+                        getgenv().Speed = true
+                        getgenv().FakeMacro = true
+                        loadstring(game:HttpGet("https://raw.githubusercontent.com/Allvideo/nukermode/main/Kit%20tools.txt"))()
+                                                end)local Library = {};
+                        
+                                                local Main = Window:NewTab("Leaked") 
+                                                local MainSection = Main:NewSection("EZ")
+                                            
+                                                MainSection:NewButton("starhook", "NIGGA", function()
+                                                    loadstring(game:HttpGet("https://raw.githubusercontent.com/Dekos-lgbty/dahood/main/starhook"))()
+                                                        end)local Library = {};
+
+
+                                                        MainSection:NewButton("fearless", "NIGGA", function()
+                                                            loadstring(game:HttpGet('https://raw.githubusercontent.com/obeseinsect/roblox/main/Ui%20Libraries/Elerium.lua'))()
+                                                                end)local Library = {};
+
+
+                                                                MainSection:NewButton("fakemacro", "NIGGA", function()
+                                                                    local AkaliNotif = loadstring(game:HttpGet("https://raw.githubusercontent.com/Kinlei/Dynissimo/main/Scripts/AkaliNotif.lua"))();
+local Notify = AkaliNotif.Notify;
+Notify({
+Description = "Subscribe to Envixity Scripts on YouTube";
+Title = "_Envixity#8725 On Discord";
+Duration = 15;
+});
+getgenv().Speed = true
+getgenv().FakeMacro = true
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Allvideo/nukermode/main/Kit%20tools.txt"))()
+                                                                        end)local Library = {};
